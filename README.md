@@ -1,0 +1,2 @@
+# CatoDataVizGuidelines
+Data Visualization Guidelines
